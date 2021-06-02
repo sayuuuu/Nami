@@ -25,7 +25,7 @@ Hi {}, my name is {}!
 You can find the list of available commands with /help.
 """
 
-BOT_IMAGE = "https://telegra.ph/file/09aabb137ac408c4122f4.mp4"
+BOT_IMAGE = "https://telegra.ph/file/2b6301945eb4c40724d3f.mp4"
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
