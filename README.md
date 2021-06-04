@@ -1,15 +1,14 @@
 # Nami
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
-Originally a Marie fork, Nami is forked from this [repo](https://github.com/fushinori/TheRealPhoenix). Feel free to add it to your groups though!
+Originally a Marie fork, Nami is forked from this [repo](https://github.com/fushinori/TheRealPhoenixBot).
 
-Can be found on telegram as [Pɧơɛnıх](https://t.me/TheRealPhoenixBot).
 
 If you want to create your own bot, you can basically follow the steps given [here](https://github.com/PaulSonOfLars/tgbot/blob/master/README.md)
 
 OR
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rsktg/TheRealPhoenixBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sayuuuu/Nami/tree/sayu.git)
 
 ## Credits
 • [SkittBot](https://github.com/skittles9823/SkittBot) for stickers module.
