@@ -1,7 +1,7 @@
-# Pɧơɛnıх
+# Nami
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
-Originally a Marie fork, Pɧơɛnıх was created for personal use by [this person](https://t.me/TheRealPhoenix). Feel free to add it to your groups though!
+Originally a Marie fork, Nami is forked from this [repo](https://github.com/fushinori/TheRealPhoenix). Feel free to add it to your groups though!
 
 Can be found on telegram as [Pɧơɛnıх](https://t.me/TheRealPhoenixBot).
 
