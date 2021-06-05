@@ -1,4 +1,7 @@
 # Nami
+
+![logo](https://telegra.ph/file/0861995ef6339142b2e41.jpg)
+
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a Marie fork, Nami is forked from this [repo](https://github.com/fushinori/TheRealPhoenixBot).
