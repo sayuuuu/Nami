@@ -18,6 +18,6 @@ malclient
 coffeehouse
 tswift
 pyrate-limiter
-pyrogram==1.0.7
+pyrogram==1.2.9
 TgCrypto
 loguru
