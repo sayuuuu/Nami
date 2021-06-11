@@ -21,4 +21,3 @@ pyrate-limiter
 pyrogram==1.2.9
 TgCrypto
 loguru
-go 1.14
