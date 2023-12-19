@@ -14,7 +14,6 @@ bleach
 markdown2
 speedtest-cli
 wikipedia
-malclient
 coffeehouse
 tswift
 pyrate-limiter
